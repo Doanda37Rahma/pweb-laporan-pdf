@@ -1,0 +1,17 @@
+{
+    "name": "doanda/pweb",
+    "description": "PWEB C MySQL",
+    "authors": [
+        {
+            "name": "doanda",
+            "email": "doanda.205025@mhs.its.ac.id"
+        }
+    ],
+    "require": {},
+    "scripts": {
+        "server": "php -S localhost:8080"
+    },
+    "config": {
+        "process-timeout":0
+      }
+}
